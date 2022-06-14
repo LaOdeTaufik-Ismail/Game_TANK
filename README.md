@@ -6,5 +6,5 @@ Produk Game Tank
  
  cara install :
  1.membuat peoject baru unity 3d terlebih dahulu 
- 2.Clone Project ini
- 3.Copy dan Paste ke dalam peoject kamu
+ 2.Donload Project ini
+ 3.Copy dan Paste file yang ada dalam project inin kedalam peoject-mu
